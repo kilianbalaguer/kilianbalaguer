@@ -35,7 +35,7 @@ me.sayHi()
 
 ### Design and Development
 
-Hi, I'm Nevio from Germany, and I do Graphic Design and Development in my free time. I really enjoy learning new languages and frameworks.
+Hi, I'm Kilian from France (living in the Netherlands), and I do Graphic Design and Development in my free time. I really enjoy learning new languages and frameworks.
 I also like wireframing, UI, UX, and design in general.
 
 ## Hobbies
@@ -46,13 +46,13 @@ I also like wireframing, UI, UX, and design in general.
 
 👨‍🍳 Cooking
 
-🎹 Play the piano
+🎹 Play the piano, guitar, bass and drums.
 
 ♟️ Play chess
 
 ## My Goals for 2023 🗓️
 
-- Expand my C++ coding skills
+- Expand my C# 
 - Expand my SwiftUI skills
 - Beginn to learn Korean 🇰🇷 and Japanese 🇯🇵
 - Learn more chess tactics
