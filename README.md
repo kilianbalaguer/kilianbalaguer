@@ -1,6 +1,6 @@
 <!--Banner-->
 
-![Banner](Profile_Banner.png)
+![Banner](img/Profile_Banner.png)
 
 <!--Summary:
   - Introduction
@@ -15,16 +15,22 @@
 # **Welcome to my Profile** 👋
 
 ```SWIFT
-var nevio = Person(
-  name = "Nevio H",
-  location = Coordinate2D(51.165691, 10.451526),
-  languages = setOf("de", "en", "ita", "kor"),
-  skills = setOf("swift", "cpp", "javascript", "html", "css", "typescript", "nextjs", "svelte")
-)
+struct Kilian: Developer {
+  let name = "Kilian Balaguer"
+  let pronouns = "he/him/his"
+  let role = "iOS & macOS Developer, Beta tester"
+  let location = Coordinate2D(52.2434979, 5.6343227),  // Netherlands aka Holland
+  let languages = ["de_DE", "en_US", "fr-FR", "nl-NL" "es-ES"]
+  let skills = ["Swift", "Cpp", "C", "JavaScript", "HTML", "CSS", "TypeScript"]
+  let favouriteLanguage = ["Swift", "Cpp"]
+  
+  func sayHi() {
+    print("Hey, thanks for dropping by, feel free to have a look at my work! 🙂")
+  }
+}
 
-nevio.hi()
-
-// Prints out: Hey! Nice to see you there 😊
+let me = Nevio()
+me.sayHi()
 ```
 
 ### Design and Development
