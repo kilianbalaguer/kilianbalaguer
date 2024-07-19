@@ -80,8 +80,6 @@ I also like wireframing, UI, UX, and design in general.
 
 ![kilianbalaguer github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=kilianbalaguer)
 
-![snake gif](https://github.com/kilianbalaguer/kilianbalaguer/blob/output/github-contribution-grid-snake.gif)
-
 <h2 align="center">Connect With Me</h2>
 
 <div align=center>
