@@ -1,5 +1,3 @@
-<!--Banner-->
-
 ![Banner](img/Profile_Banner.png)
 
 <!--Summary:
@@ -20,9 +18,9 @@ struct Kilian: Developer {
   let pronouns = "he/him/his"
   let role = "iOS & macOS Developer, Beta tester"
   let location = Coordinate2D(52.2434979, 5.6343227),  // Netherlands aka Holland
-  let languages = ["de_DE", "en_US", "fr-FR", "nl-NL" "es-ES"]
-  let skills = ["Swift", "Cpp", "C", "JavaScript", "HTML", "CSS", "TypeScript"]
-  let favouriteLanguage = ["Swift", "Cpp"]
+  let languages = ["fr-FR", "nl-NL", "de_DE", "en_US", "es-ES", "ar-MA"]
+  let skills = ["Swift", "C#", "C++", "C", "JavaScript", "HTML", "CSS", "TypeScript", "NextJS", "React", "Kotlin"]
+  let favouriteLanguage = ["Swift", "React", "NextJS"]
   
   func sayHi() {
     print("Hey, thanks for dropping by, feel free to have a look at my work! 🙂")
@@ -35,8 +33,7 @@ me.sayHi()
 
 ### Design and Development
 
-Hi, I'm Kilian from France (living in the Netherlands), and I do Graphic Design and Development in my free time. I really enjoy learning new languages and frameworks.
-I also like wireframing, UI, UX, and design in general.
+Hi, I'm Kilian from France (living in the Netherlands), and I do Graphic Design and Development ~~in my free time~~.
 
 ## Hobbies
 
@@ -52,10 +49,10 @@ I also like wireframing, UI, UX, and design in general.
 
 ## My Goals for 2023 🗓️
 
-- Expand my C# 
 - Expand my SwiftUI skills
-- Beginn to learn Korean 🇰🇷 and Japanese 🇯🇵
+- Expand my german (yeah Nevio Hirani im talking to you lol)
 - Learn more chess tactics
+- Find a loyal, honest, respectful and cute girlfriend
 
 ## Skills
 
@@ -72,6 +69,7 @@ I also like wireframing, UI, UX, and design in general.
 ## My Stats
 
 <!--![Overall](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N3v1&theme=shades-of-purple)-->
+<div align=center>
 
 ![kilianbalaguer GitHub stats](https://github-readme-stats.vercel.app/api?username=kilianbalaguer&show_icons=true&theme=shades-of-purple)
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=N3v1&theme=shades-of-purple)
@@ -80,17 +78,4 @@ I also like wireframing, UI, UX, and design in general.
 
 ![kilianbalaguer github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=kilianbalaguer)
 
-<h2 align="center">Connect With Me</h2>
-
-<div align=center>
-  
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N3v1)
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:n3v1@gmail.com)
-
-<p align="center">
-  <a aria-label="Connect with me on Discord" href="" target="_blank">
-    <img alt="" src="https://img.shields.io/badge/Discord-black.svg?style=for-the-badge&logo=Discord">
-  </a>
-</p>
-  
 </div>
