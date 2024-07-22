@@ -47,7 +47,7 @@ Hi, I'm Kilian from France (living in the Netherlands), and I do Graphic Design 
 
 ♟️ Play chess
 
-## My Goals for 2023 🗓️
+## My Goals for 2024 🗓️
 
 - Expand my SwiftUI skills
 - Expand my german (yeah Nevio Hirani im talking to you lol)
