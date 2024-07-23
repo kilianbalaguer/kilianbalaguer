@@ -56,32 +56,11 @@ Hi, I'm Kilian from France (living in the Netherlands), and I do Graphic Design 
 
 ## Skills
 
-<p align="center">
-  <strong style="font-size:30px;">Tools</strong>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,blender,figma,github,kali,visualstudio,vscode,robloxstudio" />
-  </a>
-</p>
+<p align="center"> <strong style="font-size:30px;">Tools</strong> </p> <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=androidstudio,blender,figma,github,kali,visualstudio,vscode,robloxstudio" /> </a> </p>
 
-<p align="center">
-  <strong style="font-size:30px;">Programming Languages</strong>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,js,lua,py,swift,ts,css,html,nextjs,nodejs,tailwind" />
-  </a>
-</p>
+<p align="center"> <strong style="font-size:30px;">Programming Languages</strong> </p> <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,js,lua,py,swift,ts,css,html,nextjs,nodejs,tailwind" /> </a> </p>
 
-<p align="center">
-  <strong style="font-size:30px;">Other Technologies</strong>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,md,linux,mysql,npm,pnpm,powershell,raspberrypi" />
-  </a>
-</p>
+<p align="center"> <strong style="font-size:30px;">Other Technologies</strong> </p> <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=dotnet,md,linux,mysql,npm,pnpm,powershell,raspberrypi" /> </a> </p>
 
 ## My Stats
 
