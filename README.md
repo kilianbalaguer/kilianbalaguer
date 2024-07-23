@@ -66,14 +66,7 @@ Hi, I'm Kilian from France (living in the Netherlands), and I do Graphic Design 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,js,lua,py,swift,ts" />
-  </a>
-</p>
-
-<h3 align="center">Web Development</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,nextjs,nodejs,tailwind" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,js,lua,py,swift,ts,css,html,nextjs,nodejs,tailwind" />
   </a>
 </p>
 
