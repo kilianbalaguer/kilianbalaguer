@@ -81,11 +81,8 @@ Hi, I'm Kilian from France (living in the Netherlands), and I do Graphic Design 
 
 <!--![Overall](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N3v1&theme=shades-of-purple)-->
 <div align=center>
-
+  
 ![kilianbalaguer GitHub stats](https://github-readme-stats.vercel.app/api?username=kilianbalaguer&show_icons=true&theme=shades-of-purple)
-<!--![](https://github-readme-streak-stats.herokuapp.com/?user=N3v1&theme=shades-of-purple)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N3v1&layout=compact&theme=shades-of-purple)-->
-
 
 ![kilianbalaguer github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=kilianbalaguer)
 
