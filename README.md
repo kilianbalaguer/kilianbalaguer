@@ -1,89 +1,86 @@
-![Banner](img/Profile_Banner.png)
-
-<!--Summary:
-  - Introduction
-  - Experiences
-  - Skills
-  - Example Projects
-  - hobbies
-  - study goals
-  - ...
--->
-
 # **Welcome to my Profile** 👋
 
 ```SWIFT
-struct Kilian: Developer {
-  let name = "Kilian Balaguer"
-  let pronouns = "he/him/his"
-  let role = "iOS & macOS Developer, Beta tester"
-  let location = Coordinate2D(52.2434979, 5.6343227),  // Netherlands aka Holland
-  let languages = ["fr-FR", "nl-NL", "de_DE", "en_US", "es-ES", "ar-MA"]
-  let skills = ["Swift", "C#", "C++", "C", "JavaScript", "HTML", "CSS", "TypeScript", "NextJS", "React", "Kotlin"]
-  let favouriteLanguage = ["Swift", "React", "NextJS"]
-  
-  func sayHi() {
-    print("Hey, thanks for dropping by, feel free to have a look at my work! 🙂")
-  }
+import Foundation
+import CoreLocation
+
+struct Kilian {
+    // MARK: - Basic Info
+    let name = "Kilian Balaguer"
+    let pronouns = "he/him/his"
+    let role = "iOS & macOS Developer | Beta Tester"
+    let location = CLLocationCoordinate2D(latitude: 52.2434979, longitude: 5.6343227) // Netherlands 🇳🇱
+
+    // MARK: - Languages
+    let spokenLanguages = ["fr-FR", "nl-NL", "de-DE", "en-US", "es-ES", "ar-MA"]
+
+    // MARK: - Skills
+    let programmingSkills = [
+        "Swift", "C#", "C++", "C", "JavaScript",
+        "HTML", "CSS", "TypeScript", "NextJS", "React", "Kotlin"
+    ]
+
+    // MARK: - Favorites
+    let favouriteLanguages = ["Swift", "React", "NextJS"]
+
+    // MARK: - Methods
+    func sayHi() {
+        print("""
+        👋 Hey there! I'm \(name).
+        Role: \(role)
+        Pronouns: \(pronouns)
+        Location: \(location.latitude), \(location.longitude)
+        
+        Feel free to explore my work and reach out! 🙂
+        """)
+    }
 }
 
+// MARK: - Usage
 let me = Kilian()
 me.sayHi()
 ```
 
-### Design and Development
+# 👋 Hey, I’m Kilian!
 
-Hi, I'm Kilian from France (living in the Netherlands), and I do Graphic Design and Development ~~in my free time~~.
+Hi! I’m **Kilian Balaguer**, a 15-year-old tech enthusiast from France, currently living in the Netherlands. I’m passionate about **iOS & macOS development**, Hackintosh setups, SwiftUI, coding, hardware mods, and creating fun/prank applications.  
 
-## Hobbies
+I love combining **technology and creativity**, whether it’s building apps, customizing systems, or making clever little projects. Outside of coding, I enjoy **music, chess, cooking**, and playing instruments. Also, I’m lucky to share my adventures with my amazing girlfriend, **Lia** 💖.  
 
-👨‍💻 Programming
+## 🎯 Interests & Hobbies
 
-🎵 Produce and listen to music
+- 👨‍💻 Programming & App Development (Swift, SwiftUI, React, NextJS, Kotlin…)  
+- 🎵 Music: producing, listening, and playing piano, guitar, bass, drums  
+- 👨‍🍳 Cooking & experimenting in the kitchen  
+- ♟️ Chess – always looking to improve and challenge myself  
+- 🔧 Hackintosh & tech experiments  
 
-👨‍🍳 Cooking
+## 🛠️ Skills & Tools
 
-🎹 Play the piano, guitar, bass and drums.
-
-♟️ Play chess
-
-## My Goals for 2024 🗓️
-
-- Expand my SwiftUI skills
-- Expand my german (yeah [Nevio Hirani](https://github.com/N3v1) im talking to you lol)
-- Learn more chess tactics
-- Find a loyal, honest, respectful and cute girlfriend
-
-## Skills
-
-<h3 align="center">Tools</h3>
+<h3 align="center">Development & Design Tools</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,blender,figma,github,kali,visualstudio,vscode,robloxstudio" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=androidstudio,blender,figma,github,kali,visualstudio,vscode,robloxstudio" />
 </p>
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,js,lua,py,swift,ts,css,html,nextjs,nodejs,tailwind" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,js,lua,py,swift,ts,css,html,nextjs,nodejs,tailwind,kotlin" />
 </p>
 
-<h3 align="center">Other Technologies</h3>
+<h3 align="center">Other Tech</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,md,linux,mysql,npm,pnpm,powershell,raspberrypi" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=dotnet,md,linux,mysql,npm,pnpm,powershell,raspberrypi" />
 </p>
 
-## My Stats
+## 📊 GitHub Stats
 
-<!--![Overall](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N3v1&theme=shades-of-purple)-->
-<div align=center>
-  
-![kilianbalaguer GitHub stats](https://github-readme-stats.vercel.app/api?username=kilianbalaguer&show_icons=true&theme=shades-of-purple)
+<div align="center">
 
-![kilianbalaguer github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=kilianbalaguer)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kilianbalaguer&show_icons=true&theme=shades-of-purple)
+
+<br>
+
+![Advanced GitHub Stats](https://stats.dooboo.io/api/github-stats-advanced?login=kilianbalaguer)
 
 </div>
+
