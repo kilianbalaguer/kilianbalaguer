@@ -45,7 +45,7 @@ me.sayHi()
 
 Hi! I’m **Kilian Balaguer**, a 15-year-old tech enthusiast from France, currently living in the Netherlands. I’m passionate about **iOS & macOS development**, Hackintosh setups, SwiftUI, coding, hardware mods, and creating fun/prank applications.  
 
-I love combining **technology and creativity**, whether it’s building apps, customizing systems, or making clever little projects. Outside of coding, I enjoy **music, chess, cooking**, and playing instruments. Also, I’m lucky to share my adventures with my amazing girlfriend, **Vanesa** 💖.  
+I love combining **technology and creativity**, whether it’s building apps, customizing systems, or making clever little projects. Outside of coding, I enjoy **music, chess, cooking**, and playing instruments. Also, I’m lucky to share my adventures with my amazing girlfriend, **Özlem** 💖.  
 
 ## 🎯 Interests & Hobbies
 
