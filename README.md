@@ -104,12 +104,4 @@ I’m also happily taken by a beautiful girl called **Esmee** 💕
 
 If you want to reach out, check my portfolio or send me a message through the contact page.
 
-## 💛 Support My Work
-
-If you want to support what I build, you can send something here:
-
-[Donate with Revolut](https://revolut.me/kbalaguer)
-
----
-
 Thanks for stopping by.
