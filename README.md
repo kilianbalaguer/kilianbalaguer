@@ -48,14 +48,12 @@ Hi! I’m **Kilian Balaguer**, a 15-year-old tech enthusiast from France, curren
 
 I like combining **technology and creativity** whether that means building apps, shipping clean interfaces, exploring new systems, or creating clever little tools and experiments. Outside of coding, I enjoy **music, basketball, chess, cooking**, and playing instruments.
 
-I’m also happily taken by a beautiful girl called **Esmee** 💕
-
 ## 🎯 Interests & Hobbies
 
 - 👨‍💻 Programming & App Development with Swift, React, Next.js, Kotlin, and more
 - 🎵 Music production, listening, and playing piano, guitar, bass, and drums
 - 🏀 Basketball and staying active
-- 🏍️ Motorcycles and getting my Yamaha YZF-R125 this year
+- 🏍️ Motorcycles
 - 👨‍🍳 Cooking and experimenting in the kitchen
 - ♟️ Chess and constantly improving my game
 - 🔧 Tech experiments, local AI, and hands-on builds
