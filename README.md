@@ -1,105 +1,71 @@
-# **Welcome to my Profile** 👋
+# Hey, I'm Kilian 👋
 
-```SWIFT
-import Foundation
-import CoreLocation
+**16-year-old developer from France, now based in Marrakech, Morocco 🇲🇦**
 
+I build things for iOS, macOS, and the web — and I love mixing technology with creativity.
+
+---
+
+## 👨‍💻 About Me
+
+```swift
 struct Kilian {
-    // MARK: - Basic Info
     let name = "Kilian Balaguer"
-    let pronouns = "he/him/his"
-    let role = "iOS & macOS Developer | Full-Stack Developer | Beta Tester | Maker"
-    let location = CLLocationCoordinate2D(latitude: 52.2434979, longitude: 5.6343227) // Netherlands 🇳🇱
-
-    // MARK: - Languages
-    let spokenLanguages = ["fr-FR", "nl-NL", "de-DE", "en-US", "es-ES", "ar-MA"]
-
-    // MARK: - Skills
-    let programmingSkills = [
-        "C++", "C#", "C", "Python", "JavaScript",
-        "TypeScript", "CSS", "HTML", "Kotlin", "Node.js",
-        "Next.js", "Swift", "Lua", "XML", "React", "Java"
+    let pronouns: Pronoun = .he
+    let age = 16
+    let from = "France"
+    let livesIn = "Marrakech, Morocco"
+    
+    let roles = [
+        "iOS & macOS Developer",
+        "Full-Stack Developer",
+        "Beta Tester",
+        "Maker"
     ]
-
-    // MARK: - Favorites
-    let favouriteLanguages = ["Swift", "React", "Next.js"]
-
-    // MARK: - Methods
-    func sayHi() {
-        print("""
-        👋 Hey there! I'm \(name).
-        Role: \(role)
-        Pronouns: \(pronouns)
-        Location: \(location.latitude), \(location.longitude)
-
-        Feel free to explore my work and reach out! 🙂
-        """)
-    }
+    
+    let interests = [
+        "SwiftUI", "React", "Next.js", "Kotlin",
+        "Local AI", "Hardware Experiments",
+        "Music", "Basketball", "Chess", "Cooking"
+    ]
 }
-
-// MARK: - Usage
-let me = Kilian()
-me.sayHi()
 ```
 
-## 👋 Hey, I’m Kilian!
+I'm passionate about building clean, functional apps and tools. Whether it's SwiftUI, React, Kotlin, or experimenting with on-device AI — I enjoy the process of turning ideas into reality.
 
-Hi! I’m **Kilian Balaguer**, a 15-year-old tech enthusiast from France, currently living in the Netherlands. I’m passionate about **iOS & macOS development**, full-stack development, SwiftUI, coding, hardware experiments, local AI apps, and building useful things with a creative twist.
+Outside of code, you'll find me playing **piano, guitar, or drums**, hitting the basketball court, or experimenting in the kitchen.
 
-I like combining **technology and creativity** whether that means building apps, shipping clean interfaces, exploring new systems, or creating clever little tools and experiments. Outside of coding, I enjoy **music, basketball, chess, cooking**, and playing instruments.
-
-## 🎯 Interests & Hobbies
-
-- 👨‍💻 Programming & App Development with Swift, React, Next.js, Kotlin, and more
-- 🎵 Music production, listening, and playing piano, guitar, bass, and drums
-- 🏀 Basketball and staying active
-- 🏍️ Motorcycles
-- 👨‍🍳 Cooking and experimenting in the kitchen
-- ♟️ Chess and constantly improving my game
-- 🔧 Tech experiments, local AI, and hands-on builds
+---
 
 ## 🛠️ Skills & Tools
 
-<h3 align="center">Development & Design Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,blender,figma,github,kali,visualstudio,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=swift,react,nextjs,kotlin,typescript,python,lua,c,cpp,java" />
 </p>
 
-<h3 align="center">Programming Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,js,lua,py,swift,ts,css,html,nextjs,nodejs,react,tailwind,kotlin" />
+  <img src="https://skillicons.dev/icons?i=xcode,androidstudio,figma,vscode,linux,git,githubactions,raspberrypi" />
 </p>
 
-<h3 align="center">Other Tech</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,mysql,npm,pnpm,powershell,raspberrypi,githubactions" />
-</p>
+---
 
-## 🚀 Currently Building
+## 🚀 Currently Working On
 
-- Voltaire, a local AI app for iPhone first, then Mac and iPad
-- AeroBrowser and other apps with smooth UI and practical details
-- Small experiments that mix software, hardware, and creativity
-- Local AI workflows with models like Gemma, Mistral, DeepSeek, Qwen, and more
+- **Voltaire** — Local AI app for iPhone, Mac, and iPad
+- **AeroBrowser** — Clean, practical browsing experience
 
-## 🧰 Favorite Stack
-
-- Swift and SwiftUI
-- React and Next.js
-- Kotlin and Android tooling
-- MLX and on-device AI
-- Clean UI, brutalist borders, and practical product design
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-    
-![Advanced GitHub Stats](https://stats.dooboo.io/api/github-stats-advanced?login=kilianbalaguer)
-
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=kilianbalaguer" alt="GitHub Stats" />
 </div>
 
-## 📫 Contact
+---
 
-If you want to reach out, check my portfolio or send me a message through the contact page.
+## 📫 Let's Connect
 
-Thanks for stopping by.
+Check out my portfolio or reach out through my contact page — always happy to chat about tech, apps, or creative projects.
+
+Thanks for stopping by!
