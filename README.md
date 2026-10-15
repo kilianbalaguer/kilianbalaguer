@@ -2,7 +2,7 @@
 
 **16-year-old developer from France, now based in Marrakech, Morocco 🇲🇦**
 
-I build things for iOS, macOS, and the web — and I love mixing technology with creativity.
+Founder of **[Avenor](https://avenor.ma)**, a web studio in Marrakech. I build things for iOS, macOS, and the web, and I love mixing technology with creativity.
 
 ---
 
@@ -17,6 +17,7 @@ struct Kilian {
     let livesIn = "Marrakech, Morocco"
     
     let roles = [
+        "Founder @ Avenor",
         "iOS & macOS Developer",
         "Full-Stack Developer",
         "Beta Tester",
@@ -51,7 +52,8 @@ Outside of code, you'll find me playing **piano, guitar, or drums**, hitting the
 
 ## 🚀 Currently Working On
 
-- **Voltaire** — Local AI app for iPhone, Mac, and iPad
+- **[Avenor](https://avenor.ma)** — My web studio in Marrakech, building websites for businesses (started 2026)
+- **[Voltaire](https://github.com/kilianbalaguer/Voltaire)** — Local AI app for iPhone, iPad, and Mac, built with Swift and MLX (started 2026)
 - **AeroBrowser** — Clean, practical browsing experience
 
 ---
@@ -66,6 +68,6 @@ Outside of code, you'll find me playing **piano, guitar, or drums**, hitting the
 
 ## 📫 Let's Connect
 
-Check out my portfolio or reach out through my contact page — always happy to chat about tech, apps, or creative projects.
+Check out my [portfolio](https://www.kilianbalaguer.tech) or reach out through my contact page — always happy to chat about tech, apps, or creative projects.
 
 Thanks for stopping by!
