@@ -68,6 +68,6 @@ Outside of code, you'll find me playing **piano, guitar, or drums**, hitting the
 
 ## 📫 Let's Connect
 
-Check out my [portfolio](https://www.kilianbalaguer.tech) or reach out through my contact page — always happy to chat about tech, apps, or creative projects.
+Check out my [portfolio](https://kilianbalaguer.me) or reach out through my contact page — always happy to chat about tech, apps, or creative projects.
 
 Thanks for stopping by!
