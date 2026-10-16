@@ -54,7 +54,7 @@ Outside of code, you'll find me playing **piano, guitar, or drums**, hitting the
 
 - **[Avenor](https://avenor.ma)** — My web studio in Marrakech, building websites for businesses (started 2026)
 - **[Voltaire](https://github.com/kilianbalaguer/Voltaire)** — Local AI app for iPhone, iPad, and Mac, built with Swift and MLX (started 2026)
-- **AeroBrowser** — Clean, practical browsing experience
+- **[OvraBrowser](https://github.com/ovrabrowser)** — Clean, practical browsing experience
 
 ---
 
